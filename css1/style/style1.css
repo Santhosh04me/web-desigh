@@ -1,0 +1,23 @@
+h2{
+    color: chartreuse;
+   
+}
+h1{
+    color: blue;
+    
+}
+p{
+    color: rgb(24, 246, 13);
+    font-size: 20px;
+    width: 500px;
+    border: lpx solid rgb(243, 14, 14);
+}
+#fst{
+    text-align: center;
+    color: blue;
+    font-size: 25px;
+}
+.snd{
+    text-align:right;
+    color: rgb(34, 10, 56);
+}
